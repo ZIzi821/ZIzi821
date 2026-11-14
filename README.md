@@ -1,6 +1,6 @@
 ### 你好，我是 ZIzi 👋
 
-莫纳什大学（Monash University）应用数据科学本科在读（2025–2028）。我喜欢把具体需求做成能用的小产品，再用数据检查它是否真的有效：AI 应用方向做 Prompt、RAG、工作流和评测，数据方向用 SQL、Python、R 做分析和建模。
+莫纳什大学（Monash University）应用数据科学本科在读（2025–2028）。我喜欢把具体需求做成能用的小产品：AI 应用方向做 Prompt、RAG、工作流和评测，数据方向用 SQL、Python、R 做分析和建模。
 
 Applied Data Science undergraduate at Monash University. I build small AI and data products and measure whether they work.
 
