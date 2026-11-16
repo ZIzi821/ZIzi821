@@ -1,3 +1,7 @@
+<a href="https://zizi821.github.io/"><img src="assets/banner.gif" width="100%" alt="Yanyu Zhu（ZIzi）的作品集：zizi821.github.io"></a>
+
+<p align="center"><a href="https://zizi821.github.io/"><b>作品集 → zizi821.github.io</b></a></p>
+
 ### 你好，我是 ZIzi 👋
 
 莫纳什大学（Monash University）应用数据科学本科在读（2025–2028）。我喜欢把具体需求做成能用的小产品：AI 应用方向做 Prompt、RAG、工作流和评测，数据方向用 SQL、Python、R 做分析和建模。
