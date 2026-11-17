@@ -16,7 +16,7 @@ Applied Data Science undergraduate at Monash University. I build small AI and da
 | [Ecommerce-BI-Dashboard](https://github.com/ZIzi821/Ecommerce-BI-Dashboard) | R Shiny 交互看板 + 10 个 DuckDB SQL 查询（窗口函数、cohort、RFM）+ Python 延误预测 | 180,519 条订单明细；梯度提升 AUC 0.777 |
 | [朱老师英语课堂](https://github.com/ZIzi821/Teaching-Students-English-Program) | 为一对一英语教学开发、持续用于真实教学的微信小程序：老师 / 学生双角色、背词复习安排、错题、KET 口语模考 | 40 个页面；22 个单元测试文件 + 12 个校验脚本 |
 | [teachloop-skills](https://github.com/ZIzi821/teachloop-skills) | 把小程序中的教学设计规则整理成 AI Skill，用行为场景评测 | 8 个场景全部符合预期 |
-| [Cairn](https://github.com/Jason-d-e/cairn) & [TraceDesk Lite](https://github.com/Jason-d-e/tracedesk-lite) | LaunchPad Hacks 2026（两人团队）：面向 ADHD 学生、带引文核对的 AI 问答；我负责产品构想、Prompt 与前端设计思路 | [在线演示](https://jason-d-e.github.io/cairn/)；检索 Top-5 命中 44/45 |
+| [Cairn & TraceDesk Lite](https://zizi821.github.io/) | LaunchPad Hacks 2026（两人团队）：面向 ADHD 学生、带引文核对的 AI 问答；我负责产品构想、Prompt 与前端设计思路 | 检索 Top-5 命中 44/45 |
 | [Statistical-Modelling-R](https://github.com/ZIzi821/Statistical-Modelling-R) | R 统计建模：回归、分类与 A/B 实验分析流程 | 房价回归 Adj. R² 0.87；2,000 次 A/A 模拟 |
 
 #### 常用工具
