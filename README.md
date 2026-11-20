@@ -1,4 +1,4 @@
-<a href="https://zizi821.github.io/"><img src="assets/banner.gif" width="100%" alt="Yanyu Zhu（ZIzi）的作品集：zizi821.github.io"></a>
+<a href="https://zizi821.github.io/"><img src="assets/banner-earth.gif" width="100%" alt="Yanyu Zhu（ZIzi）的作品集：zizi821.github.io"></a>
 
 <p align="center"><a href="https://zizi821.github.io/"><b>作品集 → zizi821.github.io</b></a></p>
 
